@@ -1,4 +1,5 @@
 Hi there, I'm Baliram 👋
+
 I'm a passionate and dedicated coder with a strong background in competitive programming and software development.
 My primary expertise lies in C++ and Data Structures & Algorithms (DSA). 
 I thrive on solving complex programming problems and enjoy bringing innovative projects to life.
