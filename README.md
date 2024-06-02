@@ -1,4 +1,4 @@
-Hi there, I'm Baliram ![tenor](https://github.com/mbaliramgupta/mbaliramgupta/assets/157468883/b4fd2080-e86e-40ec-b247-eca3bc078a3a)
+Hi there, I'm Baliram 
 
 
 I'm a passionate and dedicated coder with a strong background in competitive programming and software development.
