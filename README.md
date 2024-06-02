@@ -1,4 +1,4 @@
-Hi there, I'm Baliram 
+Hi https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif, 𝗜'𝗺 𝗕𝗮𝗹𝗶𝗿𝗮𝗺 
 
 
 I'm a passionate and dedicated coder with a strong background in competitive programming and software development.
@@ -13,9 +13,7 @@ I thrive on solving complex programming problems and enjoy bringing innovative p
 
 🚀 Current Focus: Developing projects to enhance skills.
 
-💼 Skills: C, C++, HTML, CSS, JavaScript, SQL
-
-🛠️ Tools: Visual Studio Code, MySQL
+                                💻 Languages and Tools:
 
 ![image](https://github.com/mbaliramgupta/mbaliramgupta/assets/157468883/b8bec483-f23e-4fa6-b6f1-48fcd254678e)
 
