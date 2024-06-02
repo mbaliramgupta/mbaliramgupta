@@ -17,3 +17,7 @@ I thrive on solving complex programming problems and enjoy bringing innovative p
 🛠️ Software Proficiency: Visual Studio Code, MySQL
 
 Let's connect and build something amazing together!
+![t_911_c_logo](https://github.com/mbaliramgupta/mbaliramgupta/assets/157468883/fffce05c-7705-426b-99f8-02a38182db70)
+![dsa-letter-logo-design-illustration-600nw-2309157673](https://github.com/mbaliramgupta/mbaliramgupta/assets/157468883/78e3f52c-8117-44ed-bc8a-3dd33af55d6d)
+![images](https://github.com/mbaliramgupta/mbaliramgupta/assets/157468883/965c3969-8290-4560-894e-5d506a69a1be)
+![JavaScript-logo](https://github.com/mbaliramgupta/mbaliramgupta/assets/157468883/e8b1e57c-9bd5-4197-90f9-09fa41cdcbd5)
