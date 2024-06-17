@@ -15,8 +15,9 @@ I thrive on solving complex programming problems and enjoy bringing innovative p
 
 🚀 Current Focus: Developing projects to enhance skills.
 
-🧐 Future: Exploring the Cryptocurrency.                                              ![tenor1-ezgif com-effects](https://github.com/mbaliramgupta/mbaliramgupta/assets/157468883/4df1a6e8-f168-445d-9174-d3216ed066ea)
+🧐 Future: Exploring the Cryptocurrency.                                             
 
+![tenor1-ezgif com-effects](https://github.com/mbaliramgupta/mbaliramgupta/assets/157468883/4df1a6e8-f168-445d-9174-d3216ed066ea)
 
 
 Languages and Tools:
