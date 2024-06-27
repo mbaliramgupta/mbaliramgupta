@@ -10,9 +10,10 @@
 
 - 🔭 I’m currently working on **some personal project**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on **Web2 projects**
+- 👯 I’m looking to collaborate on 
+ ![Bitcoin](https://github.com/mbaliramgupta/mbaliramgupta/assets/157468883/ac48ea88-5845-4dd8-9937-d0ce907d32eb)**DApps**
 
 - 🤝 I’m looking for help with **Web2 projects**
 
