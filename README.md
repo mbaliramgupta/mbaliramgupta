@@ -3,7 +3,7 @@
 
 <h1 align="center">
   Hi<img align="center" alt="coding" src="https://github.com/mbaliramgupta/mbaliramgupta/assets/157468883/be5b4640-1072-4991-adc4-88fd083b363b">, I'm Baliram Gupta</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A passionate full-stack developer and competitive programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbaliramgupta&label=Profile%20views&color=0e75b6&style=flat" alt="mbaliramgupta" /> </p>
 
@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with **Web2 projects**
 
-- 💬 Ask me about **React,Javascript,C++**
+- 💬 Ask me about **React,Javascript,C++,CP**
 
 - 📫 How to reach me **balramgupta7054@gmail.com**
 
