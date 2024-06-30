@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **balramgupta7054@gmail.com**
 
-- ⚡ Fun fact **I am an Ambivert**
+- ⚡ Fun fact **I write code to be aliveـــــــــــــــﮩ٨ـ❤️ﮩ٨ـﮩﮩ٨ـ**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
