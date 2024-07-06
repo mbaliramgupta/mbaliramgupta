@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with **Web2 projects**
 
-- 💬 Ask me about **React,Javascript,C++,CP**
+- 💬 Ask me about **React,Javascript,C++,DSA**
 
 - 📫 How to reach me **balramgupta7054@gmail.com**
 
