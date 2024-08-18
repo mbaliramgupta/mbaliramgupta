@@ -4,7 +4,7 @@
 <h1 align="center">
   Hi<img align="center" alt="coding" src="https://github.com/mbaliramgupta/mbaliramgupta/assets/157468883/be5b4640-1072-4991-adc4-88fd083b363b">, I'm Baliram Gupta</h1>
 <h3 align="center">A passionate full-stack developer and competitive programmer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbaliramgupta&label=Profile%20views&color=0e75b6&style=flat" alt="mbaliramgupta" /> </p>
 
