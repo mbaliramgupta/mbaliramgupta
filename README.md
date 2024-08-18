@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbaliramgupta&label=Profile%20views&color=0e75b6&style=flat" alt="mbaliramgupta" /> </p>
 
-- 🔭 I’m currently working on **musicblocks open source project**
+- 🔭 I’m currently working on **musicblocks project**
 
 - 🌱 I’m currently learning **MERN Stack**
 
