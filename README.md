@@ -47,4 +47,3 @@
 
 
 <a href="https://github.com/mbaliramgupta/mbaliramgupta/blob/main/assets/snake.svg" rel="nofollow"><img src="https://github.com/mbaliramgupta/mbaliramgupta/blob/main/assets/snake.svg" alt="Hackerearth" data-canonical-src="https://github.com/mbaliramgupta/mbaliramgupta/blob/main/assets/snake.svg" style="max-width:100%;"></a>
-
