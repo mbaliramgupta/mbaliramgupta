@@ -46,5 +46,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mbaliramgupta&" alt="mbaliramgupta" /></p>
 
 
-<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" rel="nofollow"><img src="https://github.com/mbaliramgupta/mbaliramgupta/blob/main/assets/snake.svg" alt="Hackerearth" data-canonical-src="https://github.com/mbaliramgupta/mbaliramgupta/blob/main/assets/snake.svg" style="max-width:100%;"></a>
+<a href="https://github.com/mbaliramgupta/mbaliramgupta/blob/main/assets/snake.svg" rel="nofollow"><img src="https://github.com/mbaliramgupta/mbaliramgupta/blob/main/assets/snake.svg" alt="Hackerearth" data-canonical-src="https://github.com/mbaliramgupta/mbaliramgupta/blob/main/assets/snake.svg" style="max-width:100%;"></a>
 
