@@ -1,6 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/a1f3ddaa0645f1214d3f3fc2a4b036aea88d37d24afab10afc69c791203ca3f1/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63612f32362f32652f63613236326530333534656561333131633431313334633365346263336263322e676966)
-
-
+![MasterHead](https://github.com/mbaliramgupta/mbaliramgupta/blob/main/assets/banner.gif)
 <h1 align="center">
   Hello<img align="center" alt="coding" src="https://github.com/mbaliramgupta/mbaliramgupta/assets/157468883/be5b4640-1072-4991-adc4-88fd083b363b"> World<img align="center" alt="coding" src="https://github.com/user-attachments/assets/f8dedd23-e8fd-4694-b30a-1b705ceaa740">, I'm Baliram Gupta</h1>
 <h3 align="center">A passionate full-stack developer and competitive programmer from India</h3>
