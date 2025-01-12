@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbaliramgupta&label=Profile%20views&color=0e75b6&style=flat" alt="mbaliramgupta" /> </p>
 
-- 🔭 I’m currently working on **musicblocks project**
+- 🔭 I’m currently working on **Advance Javascript Project**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Advance Javascript Concept**
 
 - 👯 I’m looking to collaborate on 
  ![Bitcoin](https://github.com/mbaliramgupta/mbaliramgupta/assets/157468883/ac48ea88-5845-4dd8-9937-d0ce907d32eb)**DApps**
